@@ -7,5 +7,5 @@ python examples/wikidata_animal_entity_ruler.py
 ```
 or
 ```bash
-python examples/wikidata_animal_entity_ruler.py "Crocodiles are evil"
+python examples/wikidata_animal_entity_ruler.py "A crocodile is evil"
 ```
